@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Facewords</string>
+    <string name="submission">Submission</string>
+    <string name="word_list">Word List</string>
+    <string name="submission_hint">Enter a corpus</string>
+    <string name="submission_button">Submit!</string>
+    <string name="submit_url_paras">%1$s%2$s</string>
+    <string name="submit_result_content">Waiting…</string>
+    <string name="submit_result_confirm">Next</string>
+</resources>

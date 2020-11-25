@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/submissionFragment"
+        android:icon="@drawable/ic_search"
+        android:title="@string/submission" />
+    <item
+        android:id="@+id/wordListFragment"
+        android:icon="@drawable/ic_word_list"
+        android:title="@string/word_list" />
+</menu>

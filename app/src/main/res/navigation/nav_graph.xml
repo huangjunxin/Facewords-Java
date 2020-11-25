@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph.xml"
+    app:startDestination="@id/submissionFragment">
+
+    <fragment
+        android:id="@+id/submissionFragment"
+        android:name="com.example.facewords_java.SubmissionFragment"
+        android:label="fragment_submission"
+        tools:layout="@layout/fragment_submission" />
+    <fragment
+        android:id="@+id/wordListFragment"
+        android:name="com.example.facewords_java.WordListFragment"
+        android:label="fragment_word_list"
+        tools:layout="@layout/fragment_word_list" />
+</navigation>
